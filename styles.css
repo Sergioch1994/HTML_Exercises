@@ -6,7 +6,7 @@ h1 { font-size: 28px;
 .card {
 
     padding: 16px;
-    margin: 5px;
+    margin: 5px; 
 }
 
 #hero {
@@ -25,4 +25,13 @@ body {
 }
 
 
+.panel {
+    background-color: rgb(240, 240, 250);
 
+    color: rgba(0,0,0,0.7);
+
+}
+
+input {
+   types: butto
+}
