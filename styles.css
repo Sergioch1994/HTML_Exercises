@@ -1,6 +1,19 @@
 h1 { font-size: 28px;
     color: brown;  
 
-}/* 2 times the size of normal text * /
+}
+
+.card {
+
+    padding: 16px;
+    margin: 5px;
+}
+
+#hero {
+    height: 300px;
+    text-align: center;
+    
+}
+
 
 
