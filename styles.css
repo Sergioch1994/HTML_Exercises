@@ -14,6 +14,15 @@ h1 { font-size: 28px;
     text-align: center;
     
 }
+input {
+    border: 2px grey;
+    padding: 8px;
+    
+}
+
+body {
+    background-color: #f7f7f7;
+}
 
 
 
